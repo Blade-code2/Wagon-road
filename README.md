@@ -1,9 +1,4 @@
-# Wagon-road
-Wagon Road is a small narrative survival game about travelling a long, empty road toward a distant bridge with three companions and a wagon that’s barely holding together.
-
----
-
-# 🚚 Wagon Road — Alpha Build
+# 🚚 Wagon Road 
 
 **Wagon Road** is a small narrative survival game about travelling a long, empty road with three companions and a wagon that’s barely holding together. You manage supplies, make choices, talk with your group, and slowly realise the road isn’t as normal as it first seems.  
 
@@ -11,13 +6,13 @@ This is the **first alpha build**, focused on the core travel loop, early dialog
 
 ---
 
-## 🌾 What’s Included in the Alpha
+## 🌾 What’s Included in the Alpha Version
 - Core wagon travel system (distance, food, health, exhaustion)  
 - Inventory and supply checking  
 - Seven main wagon actions  
 - Three companions with early dialogue options  
 - Subtle early horror groundwork  
-- Fake crash + Daisy Bell lock moment  
+- Fake crash  
 - Simple ESC menu  
 
 ---
@@ -31,20 +26,19 @@ This is the **first alpha build**, focused on the core travel loop, early dialog
 ---
 
 ## 🛠️ Tech
-- Python 3.x  
+- Python 3.11
 - Terminal‑style output  
 - No external libraries required  
 
 ---
 
-## 🗺️ Roadmap
-- Expand Chapter 1  
-- Add full horror chapter  
-- Add multi‑ending system  
+## 🗺️ To do list
+- Improve multi‑ending system  
 - Expand NPC arcs and events  
-- Add visual terminal window (Pygame)  
+- Remove visual terminal window (Pygame) bugs
 - Add save/load system  
-- Add modular event engine  
+- Improve modular event engine
+- Add sound and music
 
 ---
 
